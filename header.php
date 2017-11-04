@@ -1,4 +1,4 @@
-<!-- Header 
+<!-- Header
 =============================================== -->
 <!doctype html>
 <html lang="en">
@@ -15,12 +15,12 @@
 	<link rel='stylesheet' href='assets/css/animate.min.css'>
 	<link rel='stylesheet' href="assets/css/font-awesome.min.css"/>
 	<link rel='stylesheet' href="assets/css/style.css"/>
-	
+
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
-	
+
 	<!-- Fonts -->
 	<link href='http://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700,800' rel='stylesheet' type='text/css'>
-			
+
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="#">
 </head>
@@ -52,12 +52,12 @@
                   <ul class="dropdown-menu" role="menu">
                     <li><a  href="index.php#about">About SERC</a></li>
                     <li><a  href="index.php#about">About SASE</a></li>
-                   
+
                   </ul>
                 </li>
 		      </ul>
 		      <ul class="nav navbar-nav navbar-right">
-		        <li><a href="#slider">Networks</a></li>
+		        <li><a href="#slider">Workshops</a></li>
 		        <li><a href="index.php#faq">FAQ</a></li>
                  <li><a href="sponsors.php#sponsors">Sponsors</a></li>
                   <!-- drop down -->
@@ -72,7 +72,7 @@
                     <li class="divider"></li>
                     <li><a href="#">One more separated link</a></li>
                   </ul>
-                </li>		        
+                </li>
 		      </ul>
 		    </div><!-- /.navbar-collapse -->
 		  </div><!-- /.container-fluid -->
