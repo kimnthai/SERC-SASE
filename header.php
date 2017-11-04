@@ -9,7 +9,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<title>SERC 2018 </title>
-	
+
 	<!-- Styles -->
 	<link rel='stylesheet' href='assets/css/bootstrap.min.css'>
 	<link rel='stylesheet' href='assets/css/animate.min.css'>
